@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=buefy&height=150)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guswnee00&show_icons=true&hide=stars&theme=buefy&hide_title=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswnee00&layout=compact&hide=jupyter%20notebook,html,css&hide_title=true&hide_border=true)](https://github.com/guswnee00/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&theme=buefy&height=150&section=footer)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guswnee00&show_icons=true&hide=stars&theme=buefy&hide_title=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswnee00&layout=compact&hide=jupyter%20notebook,html,css&hide_title=true&hide_border=true)](https://github.com/guswnee00/github-readme-stats) 
