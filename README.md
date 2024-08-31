@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=buefy&height=100)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=1000&color=C076F7&width=530&lines=%E2%9C%A8Welcome+to+Hyunju's+GitHub%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -63,6 +62,5 @@
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&theme=buefy&height=100&section=footer)
-
 
 </div>
